@@ -1,6 +1,6 @@
 - 👋 你好鸭，这里是 @winterOmii的仓库首页。
 - 👀 我是一名JavaScript全栈爱好者。
-- 🌱 当前在学习Web3相关与Apple CoreMl
+- 🌱 当前在学习Web3相关与Apple CoreM
 - 📫 我的邮箱 winter_986@qq.com
 - 在探索自由职业与独立开发者。
 
