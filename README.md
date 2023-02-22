@@ -1,12 +1,16 @@
 
 
 ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=ross249.visitor-badge&left_color=SlateGray&right_color=green&left_text=Hello,Visitors)
+![Blog](https://stats.justsong.cn/api/website/?url=http://blog.wa-jjr.top&style=flat&logo=github)
+
 - 👋 你好鸭，这里是 @winterOmii的仓库首页。
 - 👀 我是一名JavaScript全栈爱好者。
 - 🌱 当前在学习Web3相关与Apple CoreML
 - 📫 我的邮箱 winter_986@qq.com
 - 在探索自由职业与独立开发
 - 我之前的Github账号 iwh718 [https://github.com/iwh718/iwh718](https://github.com/iwh718)
+
+
 
 
 
