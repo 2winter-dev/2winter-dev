@@ -18,7 +18,7 @@
 
 <div style="display: inline-block;width: 50%;">
 		<div style="display: inline-block">
-			<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=winterOmii&langs_count=6&layout=compact" />
+			<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=winterOmii&langs_count=6&layout=compact&theme=radical" />
 		</div>
 		<br>
 		<div>
