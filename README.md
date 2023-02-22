@@ -18,11 +18,11 @@
 
 <div style="display: inline-block;width: 50%;">
 		<div style="display: inline-block">
-			<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=winterOmii&langs_count=6&layout=compact&theme=radical" />
+			<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=winterOmii&langs_count=6&layout=compact" />
 		</div>
 		<br>
 		<div>
-			<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=namyakhan&theme=solarized-light&hide_border=false" />
+			<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=winterOmii&theme=solarized-light&hide_border=false" />
 		</div>
 	</div>
 
