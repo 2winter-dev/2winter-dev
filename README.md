@@ -5,10 +5,10 @@
 
 - 👋 你好鸭，这里是 @winterOmii的仓库首页。
 - 👀 我是一名JavaScript全栈爱好者。
-- 🌱 当前在学习Web3相关与Apple CoreML
-- 📫 我的邮箱 winter_986@qq.com
-- 在探索自由职业与独立开发
-- 我之前的Github账号 iwh718 [https://github.com/iwh718/iwh718](https://github.com/iwh718)
+- 🌱 当前在学习Web3相关
+- 📫 我的邮箱 huawei3xdong@gmail.com
+- iOS独立开发者&SOHO
+- 之前的Github账号  [iwh718](https://github.com/iwh718)
 
 
 
