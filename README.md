@@ -1,3 +1,13 @@
+
+<div align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/winterOmii/count.svg" />
+<!--   
+  ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=ross249.visitor-badge&left_color=SlateGray&right_color=green&left_text=HelloVisitors) -->
+  
+</div>
+
+
 - 👋 你好鸭，这里是 @winterOmii的仓库首页。
 - 👀 我是一名JavaScript全栈爱好者。
 - 🌱 当前在学习Web3相关与Apple CoreML
