@@ -20,19 +20,12 @@
 		<div style="display: inline-block">
 			<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=winterOmii&langs_count=6&layout=compact" />
 		</div>
-<!-- 		<div style="display: inline-block">
-			<img align="center" src="https://github-readme-stats.vercel.app/api?username=winterOmii&show_icons=true&theme=solarized-light" />
-		</div> -->
+		<br>
 		<div>
 			<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=namyakhan&theme=solarized-light&hide_border=false" />
 		</div>
 	</div>
-<!-- <a href="#">
-  <img align="center" src="https://stats.justsong.cn/api/leetcode/?username=winterOmii&cn=true" />
-</a>
-<a href="#">
-  <img align="center" src="https://stats.justsong.cn/api/juejin?id=4125023360530574" />
-</a> -->
+
 
 
 <!---
