@@ -8,7 +8,7 @@
 - 🌱 当前在学习Web3相关
 - 📫 我的邮箱 huawei3xdong@gmail.com
 - iOS独立开发者&SOHO
-- 之前的Github账号  [iwh718](https://github.com/iwh718)
+- Old Github  [iwh718](https://github.com/iwh718)
 
 
 
