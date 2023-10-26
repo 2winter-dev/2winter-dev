@@ -5,9 +5,8 @@
 
 - 👋 你好鸭，这里是 @winterOmii的仓库首页。
 - 👀 我是一名JavaScript全栈爱好者。
-- 🌱 当前在学习Web3相关
+- 🌱 iOS独立开发者
 - 📫 我的邮箱 huawei3xdong@gmail.com
-- iOS独立开发者&SOHO
 - Old Github  [iwh718](https://github.com/iwh718)
 
 
