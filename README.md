@@ -4,7 +4,7 @@
 ![Blog](https://stats.justsong.cn/api/website/?url=http://blog.wa-jjr.top&style=flat&logo=github)
 
 - 👋 你好鸭，这里是 @winterOmii的仓库首页。
-- 👀 我是一名JavaScript全栈爱好者。
+- 👀 我是一名JavaScript全栈爱好者,技術棧：PHP，NodeJS，SwiftUI，JavaScript，Kotlin
 - 🌱 iOS独立开发者
 - 📫 我的邮箱 huawei3xdong@gmail.com
 - Old Github  [iwh718](https://github.com/iwh718)
