@@ -1,7 +1,7 @@
 
 
 ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=winterOmi.visitor-badge&left_color=SlateGray&right_color=green&left_text=HelloVisitors) 
-![Blog](https://stats.justsong.cn/api/website/?url=http://blog.wa-jjr.top&style=flat&logo=github)
+![Blog](https://stats.justsong.cn/api/website/?url=https://blog.yusihk.com&style=flat&logo=github)
 
 - 👋 你好鸭，这里是 weicoD的仓库首页。
 - 👀 我是一名JavaScript全栈爱好者,技術棧：PHP，NodeJS，SwiftUI，JavaScript，Kotlin
