@@ -1,6 +1,6 @@
 
 
-![visitor badge](https://visitor-badge.glitch.me/badge?page_id=winterOmi.visitor-badge&left_color=SlateGray&right_color=green&left_text=HelloVisitors) 
+
 ![Blog](https://stats.justsong.cn/api/website/?url=https://blog.yusihk.com&style=flat&logo=github)
 
 - 👋 你好鸭，这里是 omibeaver的仓库首页。
