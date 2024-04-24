@@ -12,10 +12,12 @@
 - Spinner [Shopify-wordpress商品同步](https://spinner.yusihk.com)
 
 
-
+![omibeaver's GitHub stats](https://github-readme-stats.vercel.app/api?username=omibeaver&count_private=true&show_icons=true)
 
 
 ![yfd](https://stats.justsong.cn/api/csdn?id=u010913414)
+
+
 
 
 
