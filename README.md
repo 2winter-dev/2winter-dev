@@ -4,7 +4,7 @@
 ![Blog](https://stats.justsong.cn/api/website/?url=https://blog.yusihk.com&style=flat&logo=github)
 
 - 👋 你好鸭，这里是 omibeaver的仓库首页。
-- 👀 我是一名JavaScript全栈爱好者,技術棧：PHP，NodeJS，SwiftUI，JavaScript，Kotlin
+- 👀 我是一名JavaScript全栈爱好者,技術棧：JavaScript,React,ReactNative,NextJS,NodeJS，PHP，SwiftUI，Kotlin
 - 🌱 iOS独立开发者
 - Blog  [omibeaver](https://blog.yusihk.com)
 - APP系列 [APP集合](https://airbook.yusihk.com)
