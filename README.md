@@ -16,7 +16,7 @@
 
 ![yfd](https://stats.justsong.cn/api/csdn?id=u010913414) 
 
-![omibeaver's GitHub stats](https://github-readme-stats.vercel.app/api?username=omibeaver&count_private=true&show_icons=true&&theme=radical)  
+<!--![omibeaver's GitHub stats](https://github-readme-stats.vercel.app/api?username=omibeaver&count_private=true&show_icons=true&&theme=radical)  -->
 
 
 
